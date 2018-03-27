@@ -2,3 +2,5 @@ sports are
 cricket
 football
 tennis
+table tennis
+chess
