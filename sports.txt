@@ -1,6 +1,9 @@
-sports are
+Outdoor sports are :
 cricket
 football
 tennis
+Indoor Games are:
+table tennis
 chess
 base ball
+
